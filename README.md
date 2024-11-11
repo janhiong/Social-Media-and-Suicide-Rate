@@ -2,9 +2,9 @@
 ## A Predictive Modeling Approach
 
 ## 🔑 Key Takeaways:
-🔑 Learn the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
-🔑 Mastered applying PCA and KMeans clustering to simplify data complexity and uncover hidden patterns in social media usage behavior.
-🔑 Gained insights on using SHAP for explaining model outputs, highlighting the transparency and trustworthiness of complex machine learning models.
+- 🔑 Learn the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
+- 🔑 Mastered applying PCA and KMeans clustering to simplify data complexity and uncover hidden patterns in social media usage behavior.
+- 🔑 Gained insights on using SHAP for explaining model outputs, highlighting the transparency and trustworthiness of complex machine learning models.
 
 ## 1. Motivation and Background
 Over the past decade, the exponential growth of social media platforms has reshaped communication, information sharing, and personal interactions. As a social media user, I understand that while these platforms offer numerous benefits, concerns about their impact on mental health and well-being have increased. This project aims to address whether changes in social media user growth can predict changes in suicide rates, highlighting the potential use of predictive models in public health.
