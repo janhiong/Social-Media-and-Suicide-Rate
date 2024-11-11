@@ -1,4 +1,4 @@
-# Impact of Social Media on Suicide Rates: A Predictive Modeling Approach
+# Analyze the impact of Social Media on Suicide Rates: A Predictive Modeling Approach
 
 ## Project Overview
 Investigating the relationship between social media growth and changes in suicide rates (2010-2019).
