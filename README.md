@@ -2,7 +2,7 @@
 ## A Predictive Modeling Approach
 
 ## 🔑 Key Takeaways:
-- 🔑 Learn the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
+- 🔑 Learned the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
 - 🔑 Mastered applying PCA and KMeans clustering to simplify data complexity and uncover hidden patterns in social media usage behavior.
 - 🔑 Gained insights on using SHAP for explaining model outputs, highlighting the transparency and trustworthiness of complex machine learning models.
 
