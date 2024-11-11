@@ -2,7 +2,7 @@
 ## A Predictive Modeling Approach
 
 ## 👩‍⚕️ Goals of the project
-The primary goal of this project was to determine if social media user growth could predict changes in suicide rates and identify which social media metrics had the strongest impact. This predictive approach aimed to enhance understanding of potential links between digital behavior and mental health trends, contributing valuable insights for public health research.
+- The primary goal of this project was to determine if social media user growth could predict changes in suicide rates and identify which social media metrics had the strongest impact. This predictive approach aimed to enhance understanding of potential links between digital behavior and mental health trends, contributing valuable insights for public health research.
 
 ## #️⃣ Conclusions
 - There is a robust correlation between social media user growth and changes in suicide rates, with Twitter growth being a particularly strong predictor.
