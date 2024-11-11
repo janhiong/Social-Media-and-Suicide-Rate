@@ -10,7 +10,7 @@ The primary goal of this project was to determine if social media user growth co
 - These results highlighted the potential of using social media metrics for mental health trend predictions but also underscored the need for responsible application.
   
 ## 🧠 Challenges
-One of the main challenges I faced was managing the limited dataset size (30 records), which required careful handling to avoid overfitting and ensure meaningful results. Additionally, balancing the interpretability of the model with its predictive power posed another challenge, particularly when integrating complex features like PCA components and clustering results.
+- One of the main challenges I faced was managing the limited dataset size (30 records), which required careful handling to avoid overfitting and ensure meaningful results. Additionally, balancing the interpretability of the model with its predictive power posed another challenge, particularly when integrating complex features like PCA components and clustering results.
 
 ## 👩‍💻 Cool Techniques Used
 - KMeans Clustering: This technique was employed to segment social media usage patterns into behavioral clusters, revealing distinct user growth patterns that informed the analysis.
