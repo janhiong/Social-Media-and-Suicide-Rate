@@ -1,11 +1,6 @@
 # 📱 Analyze the Impact of Social Media on Suicide Rates: 
 ## A Predictive Modeling Approach
 
-## 🔑 Key Takeaways:
-- Learned the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
-- Mastered applying PCA and KMeans clustering to simplify data complexity and uncover hidden patterns in social media usage behavior.
-- Gained insights on using SHAP for explaining model outputs, highlighting the transparency and trustworthiness of complex machine learning models.
-
 ## 👩‍⚕️ Goals of the project
 The primary goal of this project was to determine if social media user growth could predict changes in suicide rates and identify which social media metrics had the strongest impact. This predictive approach aimed to enhance understanding of potential links between digital behavior and mental health trends, contributing valuable insights for public health research.
 
@@ -22,6 +17,11 @@ One of the main challenges I faced was managing the limited dataset size (30 rec
 - Principal Component Analysis (PCA): Used to reduce dimensionality and highlight key variance components, making the data more manageable and enhancing model performance.
 - SHAP (SHapley Additive exPlanations): Applied to explain the model’s feature importance and ensure transparency in predictions, aiding in a clear understanding of which social media metrics were most influential.
 
+## 🔑 Key Takeaways:
+- Learned the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
+- Mastered applying PCA and KMeans clustering to simplify data complexity and uncover hidden patterns in social media usage behavior.
+- Gained insights on using SHAP for explaining model outputs, highlighting the transparency and trustworthiness of complex machine learning models.
+  
 ## 🔖 Future Work
 - Integrating more comprehensive data sources, such as demographic and psychological factors, to enhance model accuracy.
 - Applying additional machine learning models or ensemble techniques for comparison.
