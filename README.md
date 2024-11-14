@@ -12,7 +12,7 @@
 ## 🧠 Challenges
 - One of the main challenges I faced was managing the limited dataset size (30 records), which required careful handling to avoid overfitting and ensure meaningful results. Additionally, balancing the interpretability of the model with its predictive power posed another challenge, particularly when integrating complex features like PCA components and clustering results.
 
-## 👩‍💻 Cool Techniques Used
+## 👩‍💻 Techniques Used
 - KMeans Clustering: This technique was employed to segment social media usage patterns into behavioral clusters, revealing distinct user growth patterns that informed the analysis.
 - Principal Component Analysis (PCA): Used to reduce dimensionality and highlight key variance components, making the data more manageable and enhancing model performance.
 - SHAP (SHapley Additive exPlanations): Applied to explain the model’s feature importance and ensure transparency in predictions, aiding in a clear understanding of which social media metrics were most influential.
