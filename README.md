@@ -17,7 +17,7 @@
 - Principal Component Analysis (PCA): Used to reduce dimensionality and highlight key variance components, making the data more manageable and enhancing model performance.
 - SHAP (SHapley Additive exPlanations): Applied to explain the model’s feature importance and ensure transparency in predictions, aiding in a clear understanding of which social media metrics were most influential.
 
-## 🔑 Key Takeaways:
+## 🔑 Key Takeaways
 - Learned the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
 - Mastered applying PCA and KMeans clustering to simplify data complexity and uncover hidden patterns in social media usage behavior.
 - Gained insights on using SHAP for explaining model outputs, highlighting the transparency and trustworthiness of complex machine learning models.
