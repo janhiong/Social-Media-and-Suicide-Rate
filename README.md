@@ -1,4 +1,4 @@
-# 📱 Analyze the Impact of Social Media on Suicide Rates: 
+# 📱 Analyze the Impact of Social Media on Suicide Rates
 ## A Predictive Modeling Approach
 
 ## 👩‍⚕️ Goals of the project
